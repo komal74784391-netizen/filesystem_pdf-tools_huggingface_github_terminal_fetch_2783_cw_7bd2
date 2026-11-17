@@ -1,8 +1,7 @@
 # Attribution
 
-Upstream dataset id: TBD
-License identifier: TBD
+Upstream dataset id: TUaxhuiax/open-codebook-clause-inventory
+License identifier: cc-by-4.0
 
 Notes:
-- Record the upstream dataset that the seed inventory file comes from.
-- Record the license identifier exactly as declared by that dataset.
+- Immediate upstream of the seed clause inventory.
