@@ -1,0 +1,53 @@
+report_file,legacy_clause,legacy_quote,code_article,target_article_text
+incident_IR-2411.pdf,HW-1974 4.2(b),Re-verification of hygiene performance shall be carried out not later than ninety days after the previous verification is signed off.,118,"Article 118 - Hygiene Verification for Wet Processing Lines
+(1) Wet processing lines shall be drained and inspected at each scheduled shutdown before
+cleaning agents are introduced.
+(2) Verification records shall identify the line segment, the cleaning agent batch, and the
+responsible operator.
+(3) Re-verification of hygiene performance shall be carried out not later than ninety days after the
+previous verification is signed off."
+incident_IR-2411.pdf,HW-1974 7.1(a),Every chemical transfer hose shall carry a durable label showing the transferred substance and the last pressure test date.,133,"Article 133 - Labeling of Chemical Transfer Hoses
+(1) Every chemical transfer hose shall carry a durable label showing the transferred substance and
+the last pressure test date."
+incident_IR-2418.pdf,HW-1974 12.3(c),Interlock function shall be proof tested at intervals not exceeding twelve months and the proof test shall be recorded.,147,"Article 147 - Guarding of Rotating Equipment
+(1) Rotating shafts, couplings, and belt drives shall be enclosed by fixed guards that cannot be
+removed without a tool.
+(2) Where access is required during operation, interlocks shall bring the equipment to a safe state
+before the guard is opened.
+(3) Interlock function shall be proof tested at intervals not exceeding twelve months and the proof
+test shall be recorded."
+incident_IR-2418.pdf,HW-1974 9.5(b),A competent person shall attempt a start under the lockout and confirm zero energy state before work proceeds.,156,"Article 156 - Lockout Verification Before Maintenance
+(1) Energy isolation devices shall be locked in the de-energized position before any maintenance
+work begins.
+(2) A competent person shall attempt a start under the lockout and confirm zero energy state
+before work proceeds."
+incident_IR-2426.pdf,HW-1974 5.8(d),The set pressure of every relief device shall not exceed the vessel design pressure and shall be stamped on the device nameplate.,163,"Article 163 - Pressure Relief on Steam Vessels
+(1) Each steam vessel shall be fitted with at least one pressure relief device sized for the maximum
+steam input.
+(2) The set pressure of every relief device shall not exceed the vessel design pressure and shall be
+stamped on the device nameplate.
+(3) Relief discharge shall be routed to a safe location away from occupied areas and shall be
+inspected for obstruction monthly."
+incident_IR-2426.pdf,HW-1974 15.2(f),"Weekly activation checks shall confirm flow, temperature, and unobstructed access, and the checks shall be logged.",177,"Article 177 - Emergency Showers in Corrosive Areas
+(1) An emergency shower and eyewash station shall be provided within fifteen metres of any
+corrosive chemical transfer point.
+(2) Weekly activation checks shall confirm flow, temperature, and unobstructed access, and the
+checks shall be logged."
+incident_IR-2433.pdf,HW-1974 11.4(e),The air change rate in each storage room shall be maintained at not less than twelve air changes per hour during transfer operations.,193,"Article 193 - Ventilation in Solvent Storage Rooms
+(1) Solvent storage rooms shall be ventilated continuously during occupied hours and shall be
+posted with a no ignition notice.
+(2) Ventilation fans shall be interlocked with the room lighting circuit so that lighting cannot be
+energized while fans are stopped.
+(3) The air change rate in each storage room shall be maintained at not less than twelve air
+changes per hour during transfer operations."
+incident_IR-2441.pdf,HW-1974 17.6(g),Calibration logs for safety critical instruments shall be retained for not less than seven years after the last entry.,205,"Article 205 - Record Retention for Calibration Logs
+(1) Calibration logs for safety critical instruments shall be retained for not less than seven years
+after the last entry."
+incident_IR-2441.pdf,HW-1974 18.2(h),A transport manifest listing every cylinder by gas and quantity shall accompany each load.,213,"Article 213 - Transport of Compressed Gas Cylinders
+(1) Compressed gas cylinders shall be transported in an upright position with valve protection caps
+fitted.
+(2) Cylinders shall be secured against movement by chocks, wedges, or a purpose built cradle
+during transport.
+(3) Cylinders of flammable gases shall be separated from oxidizing gases by at least three metres
+during transport.
+(4) A transport manifest listing every cylinder by gas and quantity shall accompany each load."
